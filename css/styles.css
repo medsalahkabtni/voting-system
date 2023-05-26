@@ -1,0 +1,131 @@
+input {
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  select {
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  #upload {
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+  }
+  
+  #headerSection {
+    padding: 2px;
+    font-family: Cursive;
+  }
+
+
+  #regist{
+    background-color: aliceblue;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:5%;
+    padding : 5px;
+  }
+
+  #btn-mgu{
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16pxs
+  }
+
+  #btn-del{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16pxs;
+  position: relative;
+  left: 720px;
+  }
+
+  #loginSection {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    padding : 10px;
+    background-color: aliceblue;
+  }
+  
+  body {
+    background-image: url("https://i-mom.unimedias.fr/2020/09/16/pour-ou-contre-le-droit-de-vote-obligatoire.jpg");
+  }
+  
+  #loginbtn {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  #reglink {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  #mainSection {
+    padding: 10px;
+  }
+  
+  #profileSection {
+    width: 30%;
+    float: left;
+    background-color: white;
+    padding: 20px;
+  }
+
+  
+  #groupSection {
+    width: 60%;
+    height: 80%;
+    float: right;
+    background-color: white;
+    padding: 20px;
+    overflow-y: scroll;
+  }
+  
+  #back-button {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  #logout-button {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+  }
+
+  
